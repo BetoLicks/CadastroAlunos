@@ -5,5 +5,6 @@
 Linguagem: Java 8 (Hibernate, Maven, Primefaces)<br>
 Ide: Netbeans 8.2<br>
 Banco de dados: MySql<br>
+Plataforma: Web<br>
 Programador: Alberto Primo<br>
 </p>
