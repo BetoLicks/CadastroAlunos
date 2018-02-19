@@ -1,4 +1,4 @@
-<h1>AgendaPolitica</h1>
+<h1>CadastroAlunos</h1>
 
 <p>Exemplo de sistema de cadastro de alunos
 
